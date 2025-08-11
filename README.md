@@ -3,7 +3,7 @@
 This project automates the provisioning and configuration of multi-environment infrastructure using **Terraform** (for infrastructure provisioning) and **Ansible** (for server configuration).  
 It supports **Development**, **Staging**, and **Production** environments.
 
-![Architecture Diagram](images/diagram.png)
+![Architecture Diagram](diagram.png)
 
 
 ---
