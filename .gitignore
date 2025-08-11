@@ -1,0 +1,9 @@
+Ansible/playbook/roles/nginx-role/README.md
+Terraform/.terraform.lock.hcl
+Terraform/.terraform/environment
+Terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.8.0/windows_amd64/terraform-provider-aws_v6.8.0_x5.exe
+Terraform/terraform.tfstate.d/prod/terraform.tfstate.backup
+Terraform/.terraform/providers/registry.terraform.io/hashicorp/aws/6.8.0/windows_amd64/LICENSE.txt
+Terraform/terraform.tfstate.d/prod/terraform.tfstate
+Terraform/.terraform/modules/modules.json
+Terraform/key-pair-for-TAME

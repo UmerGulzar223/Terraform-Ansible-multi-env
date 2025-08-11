@@ -1,0 +1,18 @@
+#SPDX-License-Identifier: MIT-0
+---
+- name: Installing Nginx
+  apt:
+    name: nginx
+    state: latest
+
+- name: Enableing nginx
+  service:
+    name: nginx
+    enabled: yes
+
+- name: Deploying Web Page
+  copy:
+    src: index.html
+    dest: /var/www/html
+
+# tasks file for nginx-role
